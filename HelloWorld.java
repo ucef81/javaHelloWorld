@@ -5,7 +5,7 @@ public class HelloWorld {
         System.out.println("Hello World");
 
         } catch(Exception e ){
-            System.out.println("Erreur d'index");
+            System.out.println(e);
         }
             
 }
